@@ -1,0 +1,224 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+	<Airlines xmlns="">
+		<AirlinesTime diffgr:id="AirlinesTime1" msdata:rowOrder="0">
+			<Company>南方航空</Company>
+			<AirlineCode>CZ6186</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>06:50</StartTime>
+			<ArriveTime>09:55</ArriveTime>
+			<Mode>738</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime2" msdata:rowOrder="1">
+			<Company>山东航空</Company>
+			<AirlineCode>SC1461</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>07:30</StartTime>
+			<ArriveTime>10:25</ArriveTime>
+			<Mode>JET</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime3" msdata:rowOrder="2">
+			<Company>深圳航空</Company>
+			<AirlineCode>ZH1461</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>07:30</StartTime>
+			<ArriveTime>10:25</ArriveTime>
+			<Mode>JET</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime4" msdata:rowOrder="3">
+			<Company>中国国航</Company>
+			<AirlineCode>CA1461</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>07:30</StartTime>
+			<ArriveTime>10:25</ArriveTime>
+			<Mode>JET</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime5" msdata:rowOrder="4">
+			<Company>海南航空</Company>
+			<AirlineCode>HU7189</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>07:45</StartTime>
+			<ArriveTime>10:50</ArriveTime>
+			<Mode>738</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime6" msdata:rowOrder="5">
+			<Company>南方航空</Company>
+			<AirlineCode>CZ3682</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>08:40</StartTime>
+			<ArriveTime>11:45</ArriveTime>
+			<Mode>738</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime7" msdata:rowOrder="6">
+			<Company>南方航空</Company>
+			<AirlineCode>CZ3688</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>11:45</StartTime>
+			<ArriveTime>14:50</ArriveTime>
+			<Mode>738</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime8" msdata:rowOrder="7">
+			<Company>中国国航</Company>
+			<AirlineCode>CA4162</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>11:50</StartTime>
+			<ArriveTime>15:05</ArriveTime>
+			<Mode>320</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime9" msdata:rowOrder="8">
+			<Company>南方航空</Company>
+			<AirlineCode>CZ6188</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>14:50</StartTime>
+			<ArriveTime>17:55</ArriveTime>
+			<Mode>738</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime10" msdata:rowOrder="9">
+			<Company>山东航空</Company>
+			<AirlineCode>SC1463</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>14:55</StartTime>
+			<ArriveTime>18:00</ArriveTime>
+			<Mode>73H</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime11" msdata:rowOrder="10">
+			<Company>山东航空</Company>
+			<AirlineCode>SC1463</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>14:55</StartTime>
+			<ArriveTime>18:00</ArriveTime>
+			<Mode>73H</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>1456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime12" msdata:rowOrder="11">
+			<Company>深圳航空</Company>
+			<AirlineCode>ZH1463</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>14:55</StartTime>
+			<ArriveTime>18:00</ArriveTime>
+			<Mode>73H</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime13" msdata:rowOrder="12">
+			<Company>深圳航空</Company>
+			<AirlineCode>ZH1463</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>14:55</StartTime>
+			<ArriveTime>18:00</ArriveTime>
+			<Mode>73H</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>1456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime14" msdata:rowOrder="13">
+			<Company>中国国航</Company>
+			<AirlineCode>CA1463</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>14:55</StartTime>
+			<ArriveTime>18:00</ArriveTime>
+			<Mode>73H</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime15" msdata:rowOrder="14">
+			<Company>中国国航</Company>
+			<AirlineCode>CA1463</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>14:55</StartTime>
+			<ArriveTime>18:00</ArriveTime>
+			<Mode>73H</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>1456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime16" msdata:rowOrder="15">
+			<Company>南方航空</Company>
+			<AirlineCode>CZ3654</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>19:15</StartTime>
+			<ArriveTime>22:20</ArriveTime>
+			<Mode>JET</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime17" msdata:rowOrder="16">
+			<Company>厦门航空</Company>
+			<AirlineCode>MF1532</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>19:15</StartTime>
+			<ArriveTime>22:20</ArriveTime>
+			<Mode>JET</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime18" msdata:rowOrder="17">
+			<Company>山东航空</Company>
+			<AirlineCode>SC4166</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>20:10</StartTime>
+			<ArriveTime>23:20</ArriveTime>
+			<Mode>320</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime19" msdata:rowOrder="18">
+			<Company>深圳航空</Company>
+			<AirlineCode>ZH4166</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>20:10</StartTime>
+			<ArriveTime>23:20</ArriveTime>
+			<Mode>320</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+		<AirlinesTime diffgr:id="AirlinesTime20" msdata:rowOrder="19">
+			<Company>中国国航</Company>
+			<AirlineCode>CA4166</AirlineCode>
+			<StartDrome>北京首都国际机场</StartDrome>
+			<ArriveDrome>贵阳龙洞堡国际机场</ArriveDrome>
+			<StartTime>20:10</StartTime>
+			<ArriveTime>23:20</ArriveTime>
+			<Mode>320</Mode>
+			<AirlineStop>0</AirlineStop>
+			<Week>123456日</Week>
+		</AirlinesTime>
+	</Airlines>
+</diffgr:diffgram>
